@@ -1,2 +1,2 @@
 # redis-caching
-Spring Boot abd Redis Caching
+Spring Boot and Redis Caching
